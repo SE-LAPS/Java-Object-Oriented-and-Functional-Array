@@ -13,7 +13,7 @@ In this assignment, you'll practice your skills in Java programming, focusing on
   
 ## 💻 Installation
 - Clone the repository:
-git clone https://github.com/yourusername/assignment-1-java-array.git
+https://github.com/SE-LAPS/Java-Object-Oriented-and-Functional-Array/tree/main?tab=readme-ov-file
 
 - Navigate to the project directory:
 cd assignment-1-java-array
